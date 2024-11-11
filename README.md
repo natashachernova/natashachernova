@@ -2,6 +2,14 @@
 
 ## About Me
 
+## Technical Skills
+
+## Key Projects
+
+## Professional Goals
+
+## Connect with Me
+
 <!--
 **natashachernova/natashachernova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
